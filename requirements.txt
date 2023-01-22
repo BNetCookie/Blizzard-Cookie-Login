@@ -1,0 +1,3 @@
+mitmproxy==8.1.1
+py_cui==0.1.6
+winproxy==0.3.0a1
